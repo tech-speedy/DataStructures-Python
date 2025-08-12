@@ -19,7 +19,7 @@
 
 
 
-#Implementing a linked list with an example
+#Traversing a linked list with an example
 
 class Node:
     def __init__(self, data):

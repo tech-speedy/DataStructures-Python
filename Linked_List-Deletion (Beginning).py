@@ -1,4 +1,4 @@
-#Deletion of an element at the end of the linked list
+#Deletion of an element at the beginning of the linked list
 
 class Node:
     def __init__(self, data):
